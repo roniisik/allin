@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Poker All
+Exec=python3 /~/workspace/github.com/roniisik/allin/main.py
+Icon=
+Terminal=false
